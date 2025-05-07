@@ -259,6 +259,18 @@ h5 {
         display: none;
     }
 
+    img.final{
+        width: 60vh;
+        height: 60vh;
+        max-width: 60vh;
+        margin: 5vh;
+        border: none !important;
+        padding: 12vh;
+    
+    
+    }
+    
+
 
     
 
@@ -274,7 +286,7 @@ h5 {
 #img8 { top: 25%; left: center; width: 130px; border-radius: 5px; }
 #img9 { top: 25%; left: center; width: 130px; border-radius: 5px; }
 #img10 { top: 25%; left: center; width: 130px; border-radius: 5px; }
-#img11 { top: 25%; left: center; width: 130px; border-radius: 5px; }
+#img11 { top: 30%; left: center; width: 130px; border-radius: 5px; }
 
     .interrogation,
     .interrogation2,
