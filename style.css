@@ -251,15 +251,19 @@ h5 {
         width: 60px;
     }
 
-    #gif1, #gif2, #img1, #img2, #img3 {
+    #gif1, #gif2 {
         width: 60px;
+    }
+
+    #img1, #img2, #img3 {
+        display: none;
     }
 
 
     
 
     #gif1 { top: 10%; left: 5%;}
-#gif2 { top: 14%; left: 78%; }
+#gif2 { top: 10%; left: 78%; }
 #img1 { top: 18%; left: 8%; }
 #img2 { top: 19%; right: 33%;}
 #img3 { top: 94.5%; right: 15%;}
